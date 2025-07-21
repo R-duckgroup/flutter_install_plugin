@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.example.install_plugin'
+    namespace 'com.zaihui.installplugin'
     compileSdkVersion 28
 
     sourceSets {
